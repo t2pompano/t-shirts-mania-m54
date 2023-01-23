@@ -1,0 +1,13 @@
+.orange {
+    background-color: orangered;
+}
+
+.blue {
+    color: aliceblue;
+    background-color: blue;
+}
+
+.green {
+    background-color: rgb(63, 253, 85);
+    color: rgb(65, 20, 4);
+}
